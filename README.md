@@ -1,9 +1,6 @@
 
 <div align="center">
 
-<!-- Animated contribution snake -->
-<img width="100%" src="https://raw.githubusercontent.com/its-jc/its-jc/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-
 <h1>Hi 👋, I'm Joseph Christian</h1>
 
 <h3>
@@ -153,11 +150,11 @@ Here are some projects from my learning and development journey.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/_.its_jc_/">
+<a href="https://www.instagram.com/_.its_jc._/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://x.com/JosephC36327751">
+<a href="https://x.com/_its_jc_">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 

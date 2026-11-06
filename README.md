@@ -114,12 +114,6 @@ Here are some projects from my learning and development journey.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=its-jc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-jc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br><br>
-
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=its-jc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
